@@ -9,7 +9,7 @@ body{
 
 }
 
-.ekran{
+.om{
     position: absolute;
     top: 57px;
     left: 82px;
@@ -22,22 +22,22 @@ body{
 
 .button{
     position: absolute;
-    top: 162px;
-    left: 114px;
-    height: 75px;
-    width: 85px;
+    top: 158px;
+    left: 104px;
+    height: 105px;
+    width: 105px;
     border-radius: 50%;
     border: none;
-    background-color: rgb(201,200,200);
+    background-color: rgb(6, 145, 96);
 }
 
 .button:active{
-    width: 70.5px;
-    height: 70.5px;
+    width: 100.5px;
+    height: 100.5px;
     
 }
 
-.delete{
+.remove{
     position: absolute;
     top: 124.5px;
     left: 185.4px;
@@ -45,10 +45,10 @@ body{
     width: 23.4px;
     border-radius: 50%;
     border: none;
-    background-color: rgb(201,200,200);
+    background-color: rgb(241, 18, 18);
 }
 
-.delete:active{
+.remove:active{
     width: 30.5px;
     height: 30.5px;
 
